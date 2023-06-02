@@ -9,7 +9,6 @@
  <a href="#Features">Features</a> •
  <a href="#Rodar">Rodar</a> • 
  <a href="#Telas">Telas</a> •
- <a href="#Referencias">Referências</a> •  
 </p>
 
 ## Descrição
@@ -27,13 +26,12 @@ Achei muito interessante e fácil utilizar "LayoutBuilder" com constraints para 
 
 ### Rodar
 - [x] Fazer Clone do Projeto: git clone https://github.com/willgoncalvescruz/login-responsivo.git
-- [x] Acessar diretório: cd super_app
 - [x] Baixar dependencias: flutter pub get
 
 ### Telas
 <h1 align="center">
-<img alt="Device" title="#Device" src="./assets/images/1.png" width="200"/>
-  <img alt="Iphone" title="#Iphone" src="./assets/images/2.png" width="200"/>
   <img alt="Painel" title="#Painel" src="./assets/images/3.png" width="200"/>
+  <img alt="Iphone" title="#Iphone" src="./assets/images/2.png" width="200"/>
+<img alt="Device" title="#Device" src="./assets/images/1.png" width="200"/>
   <img alt="Desktop" title="#Desktop" src="./assets/images/4.png" width="200"/>
 </h1>
