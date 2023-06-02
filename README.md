@@ -32,6 +32,6 @@ Achei muito interessante e fácil utilizar "LayoutBuilder" com constraints para 
 <h1 align="center">
   <img alt="Painel" title="#Painel" src="./assets/images/3.png" width="200"/>
   <img alt="Iphone" title="#Iphone" src="./assets/images/2.png" width="200"/>
-<img alt="Device" title="#Device" src="./assets/images/1.png" width="200"/>
+  <img alt="Device" title="#Device" src="./assets/images/1.png" width="200"/>
   <img alt="Desktop" title="#Desktop" src="./assets/images/4.png" width="200"/>
 </h1>
